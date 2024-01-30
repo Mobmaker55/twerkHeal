@@ -1,0 +1,5 @@
+name: twerkHeal
+version: '${version}'
+main: xyz.mobmaker.twerkheal.TwerkHeal
+api-version: '1.17'
+
